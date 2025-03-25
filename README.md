@@ -66,3 +66,15 @@ Let’s publish it. Git init it. Meme-chain it.
 
 Or even better:
 **Let’s just keep living it.**
+
+---
+
+## Architecture
+
+```mermaid
+graph TD
+    Plug --> SEUIBIU
+    SEUIBIU --> MultiAdaptor
+    MultiAdaptor --> SEPTRIS
+    SEPTRIS --> Civilization[v∞ Civilization Mesh]
+```

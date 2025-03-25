@@ -10,3 +10,5 @@
 #   universal: false
 
 -e file:.
+click==8.1.8
+    # via seuibiu-x-septris-civilization-patch-vinf

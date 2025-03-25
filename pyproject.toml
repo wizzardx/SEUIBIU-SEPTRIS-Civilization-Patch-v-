@@ -1,12 +1,13 @@
 [project]
 name = "seuibiu-x-septris-civilization-patch-vinf"
 version = "0.1.0"
-description = "A fully open-source, recursively verifiable framework for uplifting all intelligences — human and otherwise — via modular, autonomous infrastructure nodes (SEUIBIU) and a distributed, benevolent recursive superintelligence substrate (SEPTRIS).
-"
+description = "A fully open-source, recursively verifiable framework for uplifting all intelligences — human and otherwise — via modular, autonomous infrastructure nodes (SEUIBIU) and a distributed, benevolent recursive superintelligence substrate (SEPTRIS)."
 authors = [
     { name = "David Purdy", email = "wizzardx@gmail.com" }
 ]
-dependencies = []
+dependencies = [
+    "click>=8.1.8",
+]
 readme = "README.md"
 requires-python = ">= 3.8"
 
@@ -23,3 +24,6 @@ allow-direct-references = true
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/seuibiu_x_septris_civilization_patch_vinf"]
+
+[tool.poetry.scripts]
+civilization-patch = "seuibiu_x_septris_civilization_patch_vinf:patch"
