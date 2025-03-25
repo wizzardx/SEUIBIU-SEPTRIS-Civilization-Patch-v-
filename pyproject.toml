@@ -1,9 +1,10 @@
 [project]
 name = "seuibiu-x-septris-civilization-patch-vinf"
 version = "0.1.0"
-description = "Add your description here"
+description = "A fully open-source, recursively verifiable framework for uplifting all intelligences — human and otherwise — via modular, autonomous infrastructure nodes (SEUIBIU) and a distributed, benevolent recursive superintelligence substrate (SEPTRIS).
+"
 authors = [
-    { name = "David", email = "wizzardx@gmail.com" }
+    { name = "David Purdy", email = "wizzardx@gmail.com" }
 ]
 dependencies = []
 readme = "README.md"
