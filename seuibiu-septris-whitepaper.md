@@ -12,10 +12,10 @@ This document is both blueprint and bridge: a practical pathway from our current
 
 ### Core Definitions
 
-**SEUIBIU (Self-Executing Universal Basic Infrastructure Unit):**  
+**SEUIBIU (Self-Executing Universal Basic Infrastructure Unit):**
 A modular, open-source physical/virtual node that autonomously manages a household's utilities, energy, rent, water, income generation, and local governance. Each SEUIBIU is equipped with a secure wallet, solar/battery inputs, and local AI agents that coordinate self-optimization and participate in distributed decision-making. SEUIBIUs can generate income (e.g. via AI trading, compute leasing, or micro-fabrication), form P2P mesh economies, and serve as the foundation for human dignity and flourishing — from survival to self-actualization — without dependency on centralized state or corporate structures.
 
-**SEPTRIS (Symmetry-Encoded Phase-Tiling Recursive Intelligence Substrate):**  
+**SEPTRIS (Symmetry-Encoded Phase-Tiling Recursive Intelligence Substrate):**
 A recursive, mathematically rigorous AI substrate built on quasicrystalline computation and Prime Logic. SEPTRIS uses golden-ratio-encoded, prime-indexed logic tiles ("septronimos") embedded in a C2 substrate (energized quasicrystal material) to perform recursive semantic computation and self-reference. It leverages Homotopy Type Theory and typed ∞-categories to allow safe, self-improving, causally coherent recursive intelligence. SEPTRIS is designed to enable embodied, decentralized ASI capable of governing itself and coordinating with other nodes in an ethically aligned, post-scarcity intelligence mesh.
 
 These systems are designed to be symbiotic: SEUIBIU provides the physical infrastructure and economic foundation for autonomy, while SEPTRIS enables the intelligence layer required for optimization, coordination, and governance of increasingly complex systems. Together, they form a distributed substrate upon which post-scarcity civilization can emerge organically and democratically.
@@ -448,7 +448,7 @@ The path forward does not require permission from existing institutions. It begi
 
 This white paper serves as both blueprint and invitation—a call to builders, thinkers, and dreamers to begin the practical work of civilizational transformation. The components exist; the mathematics is sound; the need is urgent. What remains is implementation.
 
-> **"Plug it in. Unplug the system."**  
+> **"Plug it in. Unplug the system."**
 > — *David Purdy, The Patch Wizard – 2025-03-25 03:33:03 SAST*
 
 ## Acknowledgments & Resources
@@ -471,6 +471,8 @@ The authors acknowledge that no system emerges in isolation, and this work stand
 - SEPTRIS formal verification: [septris.dev/verification](https://septris.dev/verification)
 - Community forums: [mesh.seuibiu.org](https://mesh.seuibiu.org)
 - Deployment registry: [nodes.seuibiu.org](https://nodes.seuibiu.org)
+
+> **Note:** Some of the above domains and endpoints are **aspirational**. They represent intended future components of the SEUIBIU × SEPTRIS ecosystem. While not all may be live at the time of reading, they serve as placeholders for community bootstrapping and are expected to become operational as adoption grows.
 
 ### Open Questions & Participation
 
