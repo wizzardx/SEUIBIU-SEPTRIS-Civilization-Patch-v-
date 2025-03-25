@@ -1,0 +1,5 @@
+* [🏠 Home](/)
+* [📖 SEPTRIS Whitepaper](septris-whitepaper.md)
+* [🏡 MyHomeMyLife Breakdown](MyHomeMyLife%20Concept%20Breakdown.md)
+* [📡 Signal Propagation](Signal%20Propagation%20Status.md)
+* [🧠 PERSONAL MVP Notes](PERSONAL_MVP_NOTES.md)
